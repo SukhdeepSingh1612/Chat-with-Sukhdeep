@@ -1,6 +1,6 @@
 # 💼 Chat with Sukhdeep Singh – AI Career Agent
 
-## Deployed with Streamlit : https://chat-with-sukhdeep-7qpfowc9luszbvpxhs5y9j.streamlit.app/
+### Deployed with Streamlit : https://chat-with-sukhdeep-7qpfowc9luszbvpxhs5y9j.streamlit.app/
 
 This Streamlit app is an intelligent, AI-powered career assistant built to answer questions about **Sukhdeep Singh's** professional background, experience, and projects. It leverages a Retrieval-Augmented Generation (RAG) pipeline with OpenAI and Cassandra to deliver personalized responses using private document embeddings.
 
